@@ -1,4 +1,4 @@
-# Postrges Performance Checker:
+# Spring Boot - Postrges Performance Checker:
 
 Checks performance of database when using different entity ID types.
 
